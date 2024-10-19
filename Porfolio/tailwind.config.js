@@ -4,16 +4,7 @@ module.exports = {
   theme: {
     extend: {
       keyframe: {
-        subir: {
-          "0%": {
-            transform: "translateY(0px)",
-            opacity: "1",
-          },
-          "100%": {
-            transform: "translateY(-100px)",
-            opacity: "0",
-          },
-        },
+        subir: {},
       },
     },
   },
